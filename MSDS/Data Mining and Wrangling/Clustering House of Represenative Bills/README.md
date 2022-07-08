@@ -1,5 +1,5 @@
 # DMWPublicPres_Ambag
-DMW Public Presentation with Term 2 LT4 (Joaquin Gonzales, K-Ann Carandang, John Gacal, Manu Gaspar and Weddy Diamada).
+DMW Public Presentation with Joaquin Gonzales, K-Ann Carandang, Kash Camacho, Manu Gaspar and Weddy Diamada
 
 
 Executive Summary
