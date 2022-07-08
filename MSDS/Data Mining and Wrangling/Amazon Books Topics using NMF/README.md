@@ -1,5 +1,5 @@
 # DNWLab_AmazonNMF
-DMW Lab Project with LT4 SLT (John Gacal)
+DMW Lab Project with LT4 SLT (Kash Camacho)
 
 Executive Summary
 
